@@ -3332,3 +3332,17 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-06-13 19:03:00,853 - INFO - Kanada İstanbul Konsolosluğu kontrol ediliyor...
 2025-06-13 19:03:07,678 - INFO - HTTP ile randevu sistemi bulundu: istanbul
 2025-06-13 19:03:07,679 - INFO - IRCC Randevu Sistemi kontrol ediliyor...
+2025-06-13 19:03:11,645 - INFO - Proxy istatistikleri: Pool=120, Blacklist=25, Geçerli=95
+2025-06-13 19:03:11,646 - INFO - Proxy test başlatıldı: 10 proxy test edilecek
+2025-06-13 19:03:16,048 - INFO - HTTP ile randevu sistemi bulundu: ircc_portal
+2025-06-13 19:03:16,048 - INFO - 🎉 Kanada Vize randevu bulundu! (27.3s)
+2025-06-13 19:03:17,507 - INFO - Telegram mesajı gönderildi: 3/3 başarılı
+2025-06-13 19:03:17,507 - INFO - Kontrol tamamlandı - Süre: 244.2 saniye
+2025-06-13 19:03:17,508 - INFO - 🎉 #1 döngüsünde 3 randevu bulundu!
+2025-06-13 19:03:18,894 - INFO - Telegram mesajı gönderildi: 3/3 başarılı
+2025-06-13 19:03:18,894 - INFO - 5 dakika bekleniyor...
+2025-06-13 19:03:35,459 - INFO - Proxy test tamamlandı: 1/10 çalışıyor
+2025-06-13 19:03:35,460 - INFO - Proxy cache güncellendi: 95 geçerli proxy
+2025-06-13 19:03:35,461 - INFO - 🔄 Background update: 1/95 proxy çalışıyor
+2025-06-13 19:04:11,474 - INFO - Proxy istatistikleri: Pool=120, Blacklist=25, Geçerli=95
+2025-06-13 19:04:11,476 - INFO - Proxy test başlatıldı: 10 proxy test edilecek
