@@ -1,0 +1,28 @@
+# Blacklisted Proxies - Çalışmayan proxy'ler
+# Oluşturulma: 2025-06-13 17:02:08
+
+http://95.111.229.159:8080  # Test_Blacklist - 2025-06-13 17:03:03
+http://47.251.43.115:33333  # Timeout - 2025-06-13 17:06:56
+http://161.35.98.111:8080  # ProxyError - 2025-06-13 17:48:27
+http://189.240.60.168:9090  # ConnectionError - 2025-06-13 17:58:56
+http://8.219.97.248:80  # iDATA-Timeout-1x - 2025-06-13 18:06:10
+http://139.59.34.209:8080  # iDATA-ConnectionError-1x - 2025-06-13 18:06:22
+http://38.250.126.201:999  # ConnectionError - 2025-06-13 18:14:37
+http://51.81.245.3:17981  # iDATA-Timeout-1x - 2025-06-13 18:14:44
+http://185.234.65.66:1080  # iDATA-Timeout-1x - 2025-06-13 18:15:17
+http://199.250.208.159:3128  # iDATA-Timeout-1x - 2025-06-13 18:15:24
+http://31.40.248.2:8080  # iDATA-ConnectionError-1x - 2025-06-13 18:20:03
+http://195.231.68.213:3128  # iDATA-ConnectionError-1x - 2025-06-13 18:20:04
+http://5.8.34.16:8080  # Timeout - 2025-06-13 18:28:40
+http://159.69.57.20:8880  # iDATA-Timeout-1x - 2025-06-13 18:28:47
+http://91.92.136.132:8889  # iDATA-Timeout-1x - 2025-06-13 18:29:11
+http://23.237.210.82:80  # ProxyError - 2025-06-13 18:32:06
+http://182.253.109.235:8080  # iDATA-Timeout-1x - 2025-06-13 18:32:14
+http://8.209.255.13:3128  # ConnectionError - 2025-06-13 18:41:17
+http://202.47.185.94:8080  # iDATA-ProxyError-1x - 2025-06-13 18:41:20
+http://113.160.132.195:8080  # ProxyError - 2025-06-13 18:43:51
+http://42.2.190.208:8080  # iDATA-ProxyError-1x - 2025-06-13 18:43:54
+http://27.79.208.144:16000  # iDATA-ProxyError-1x - 2025-06-13 18:44:28
+http://143.255.147.242:8080  # ProxyError - 2025-06-13 18:59:16
+http://124.122.38.54:8080  # iDATA-ProxyError-1x - 2025-06-13 18:59:19
+http://154.236.92.107:8080  # iDATA-ProxyError-1x - 2025-06-13 18:59:54

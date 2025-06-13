@@ -1,0 +1,37 @@
+# Randevu Bot Bağımlılıkları
+
+# Web istekleri için
+requests==2.31.0
+
+# HTML parsing için
+beautifulsoup4==4.12.2
+
+# Çevre değişkenleri için
+python-dotenv==1.0.0
+
+# Zamanlama için
+schedule==1.2.0
+
+# Browser automation için
+playwright==1.40.0
+
+# Loglama (Python built-in, ekstra paket gerekmez)
+# logging
+
+# JSON işlemleri (Python built-in)
+# json
+
+# Tarih/saat işlemleri (Python built-in)
+# datetime
+
+# Rastgele işlemler (Python built-in)
+# random
+
+# Zaman işlemleri (Python built-in)
+# time
+
+# Tip kontrolü için
+typing-extensions==4.8.0
+
+# HTML parser için lxml (opsiyonel, daha hızlı parsing)
+lxml==4.9.3 

@@ -1,0 +1,10 @@
+{
+  "telegram_bot_token": "8029150231:AAHmVreX41l2QVddawvyvmqHAQcYkIPDWgA",
+  "telegram_chat_ids": ["6342401479", "6095744478", "7036474864"],
+  "notification_settings": {
+    "enable_notifications": true,
+    "message_format": "HTML",
+    "retry_attempts": 3,
+    "timeout": 30
+  }
+}
