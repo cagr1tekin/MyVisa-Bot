@@ -3171,3 +3171,164 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-06-13 18:45:02,896 - WARNING - API isteği başarısız: ankara
 2025-06-13 18:45:03,165 - INFO - Browser proxy: http://103.112.163.233:8080
 2025-06-13 18:45:03,454 - INFO - VFS Global sayfası yükleniyor: https://visa.vfsglobal.com/tur/tr/ita/
+2025-06-13 18:59:10,243 - INFO - 🚀 Randevu Bot başlatılıyor (Optimized Proxy System)...
+2025-06-13 18:59:10,243 - INFO - Proxy sistemi kontrol ediliyor...
+2025-06-13 18:59:10,243 - INFO - ProxyManager başlatıldı - Background updater sistemi ile
+2025-06-13 18:59:10,244 - INFO - Proxy istatistikleri: Pool=119, Blacklist=22, Geçerli=97
+2025-06-13 18:59:10,244 - INFO - Proxy istatistikleri: Pool=119, Blacklist=22, Geçerli=97
+2025-06-13 18:59:10,245 - INFO - Proxy Durumu: Pool=521, Blacklist=22, Geçerli=97 (18.6%)
+2025-06-13 18:59:10,245 - INFO - İlk proxy güncelleme yapılıyor...
+2025-06-13 18:59:10,245 - INFO - Proxy güncelleme başlatılıyor...
+2025-06-13 18:59:10,246 - INFO - Proxy kaynağı: free-proxy-list.net
+2025-06-13 18:59:10,246 - INFO - Proxy listesi çekiliyor: https://free-proxy-list.net/
+2025-06-13 18:59:11,022 - INFO - Sayfa başarıyla indirildi: https://free-proxy-list.net/
+2025-06-13 18:59:11,022 - INFO - HTML parse işlemi başlatılıyor...
+2025-06-13 18:59:11,076 - INFO - Tablo başlıkları: ['IP Address', 'Port', 'Code', 'Country', 'Anonymity', 'Google', 'Https', 'Last Checked']
+2025-06-13 18:59:11,078 - INFO - Toplam 300 proxy bulundu, filtreleme başlatılıyor...
+2025-06-13 18:59:11,080 - INFO - Filtreleme tamamlandı: 49/300 proxy seçildi
+2025-06-13 18:59:11,081 - INFO - Proxy kaynağı: proxyscrape.com
+2025-06-13 18:59:11,760 - INFO - ProxyScrape: 0 proxy parse edildi
+2025-06-13 18:59:11,761 - INFO - Proxy kaynağı: sslproxies.org
+2025-06-13 18:59:11,761 - INFO - Proxy listesi çekiliyor: https://www.sslproxies.org/
+2025-06-13 18:59:13,078 - INFO - Sayfa başarıyla indirildi: https://www.sslproxies.org/
+2025-06-13 18:59:13,116 - INFO - SSLProxies: 100 proxy parse edildi
+2025-06-13 18:59:13,116 - INFO - Proxy listesi C:\Users\Çağrı\Desktop\GitHub-Repositories\Python-Workspace\randevu-bot\proxy_list.txt dosyasına kaydediliyor...
+2025-06-13 18:59:13,118 - INFO - 100 proxy başarıyla C:\Users\Çağrı\Desktop\GitHub-Repositories\Python-Workspace\randevu-bot\proxy_list.txt dosyasına kaydedildi
+2025-06-13 18:59:13,174 - INFO - Proxy güncelleme başarılı - 100 yeni proxy eklendi
+2025-06-13 18:59:13,179 - INFO - 🔄 Background proxy updater başlatıldı (Her 60 saniyede)
+2025-06-13 18:59:13,179 - INFO - ✅ Background proxy updater başlatıldı
+2025-06-13 18:59:13,180 - INFO - ✅ Background proxy updater başlatıldı
+2025-06-13 18:59:13,180 - INFO - Site checker'ları başlatılıyor...
+2025-06-13 18:59:13,181 - INFO - ProxyManager başlatıldı - Background updater sistemi ile
+2025-06-13 18:59:13,265 - INFO - Proxy istatistikleri: Pool=120, Blacklist=22, Geçerli=98
+2025-06-13 18:59:13,265 - INFO - Proxy istatistikleri: Pool=120, Blacklist=22, Geçerli=98
+2025-06-13 18:59:13,265 - INFO - US Visa Checker başlatıldı - ProxyManager entegrasyonu ile
+2025-06-13 18:59:13,266 - INFO - Proxy test başlatıldı: 10 proxy test edilecek
+2025-06-13 18:59:13,266 - INFO - Geçerli proxy sayısı: 98
+2025-06-13 18:59:13,268 - INFO - ProxyManager başlatıldı - Background updater sistemi ile
+2025-06-13 18:59:13,269 - INFO - Proxy istatistikleri: Pool=120, Blacklist=22, Geçerli=98
+2025-06-13 18:59:13,269 - INFO - iDATA Checker başlatıldı - ProxyManager entegrasyonu ile
+2025-06-13 18:59:13,269 - INFO - Geçerli proxy sayısı: 98
+2025-06-13 18:59:13,269 - INFO - ProxyManager başlatıldı - Background updater sistemi ile
+2025-06-13 18:59:13,270 - INFO - Proxy istatistikleri: Pool=120, Blacklist=22, Geçerli=98
+2025-06-13 18:59:13,270 - INFO - VFS Global Checker başlatıldı - ProxyManager entegrasyonu ile
+2025-06-13 18:59:13,270 - INFO - Geçerli proxy sayısı: 98
+2025-06-13 18:59:13,270 - WARNING - proxy_list.txt dosyası bulunamadı, proxy kullanılmayacak
+2025-06-13 18:59:13,271 - WARNING - proxy_list.txt dosyası bulunamadı, proxy kullanılmayacak
+2025-06-13 18:59:13,271 - WARNING - proxy_list.txt dosyası bulunamadı, proxy kullanılmayacak
+2025-06-13 18:59:13,271 - INFO - ==================================================
+2025-06-13 18:59:13,271 - INFO - RANDEVU KONTROLÜ #1 başlatılıyor...
+2025-06-13 18:59:13,271 - INFO - Proxy istatistikleri: Pool=120, Blacklist=22, Geçerli=98
+2025-06-13 18:59:13,272 - INFO - ABD Vize kontrol ediliyor...
+2025-06-13 18:59:13,272 - INFO - ABD vize randevu kontrolü başlatıldı: ABD Ankara Büyükelçiliği
+2025-06-13 18:59:16,285 - WARNING - Proxy başarısızlık kaydedildi: http://143.255.147.242:8080 (Hata: ProxyError, Sayı: 1/1)
+2025-06-13 18:59:16,287 - WARNING - BLACKLIST'E EKLENDİ: http://143.255.147.242:8080 (Sebep: ProxyError)
+2025-06-13 18:59:16,288 - WARNING - LOCAL BLACKLIST: Proxy session'dan çıkarıldı: http://143.255.147.242:8080
+2025-06-13 18:59:16,288 - INFO - REMOVED: Proxy ana listeden çıkarıldı: http://143.255.147.242:8080
+2025-06-13 18:59:16,288 - INFO - ℹ️ ABD randevu mevcut değil
+2025-06-13 18:59:16,288 - INFO - ❌ ABD Vize randevu yok (3.0s)
+2025-06-13 18:59:16,289 - INFO - Almanya Vize kontrol ediliyor...
+2025-06-13 18:59:16,289 - INFO - Ankara Büyükelçiliği kontrol ediliyor...
+2025-06-13 18:59:16,305 - INFO - Proxy istatistikleri: Pool=120, Blacklist=23, Geçerli=97
+2025-06-13 18:59:19,311 - ERROR - Proxy hatası: HTTPSConnectionPool(host='service2.diplo.de', port=443): Max retries exceeded with url: /rktermin/extern/appointment_showForm.do?locationCode=anka&realmId=108&categoryId=1600 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002B590EA2ED0>, 'Connection to 124.122.38.54 timed out. (connect timeout=3)')))
+2025-06-13 18:59:19,312 - WARNING - Proxy başarısızlık kaydedildi: http://124.122.38.54:8080 (Hata: ProxyError, Sayı: 1/1)
+2025-06-13 18:59:19,313 - WARNING - BLACKLIST'E EKLENDİ: http://124.122.38.54:8080 (Sebep: iDATA-ProxyError-1x)
+2025-06-13 18:59:19,313 - WARNING - GLOBAL BLACKLIST: http://124.122.38.54:8080 (Sebep: iDATA-ProxyError-1x)
+2025-06-13 18:59:19,313 - WARNING - HTTP isteği başarısız: ankara
+2025-06-13 18:59:19,663 - INFO - Browser proxy: http://47.243.92.199:3128
+2025-06-13 18:59:19,981 - INFO - iDATA sayfası yükleniyor: https://service2.diplo.de/rktermin/extern/appointment_showForm.do?locationCode=anka&realmId=108&categoryId=1600
+2025-06-13 18:59:31,921 - INFO - Proxy test tamamlandı: 2/10 çalışıyor
+2025-06-13 18:59:31,922 - INFO - Proxy cache güncellendi: 98 geçerli proxy
+2025-06-13 18:59:31,922 - INFO - 🔄 Background update: 2/98 proxy çalışıyor
+2025-06-13 18:59:51,752 - INFO - JavaScript kontrolü (ankara): True
+2025-06-13 18:59:51,894 - INFO - İstanbul Başkonsolosluğu kontrol ediliyor...
+2025-06-13 18:59:54,946 - ERROR - Proxy hatası: HTTPSConnectionPool(host='service2.diplo.de', port=443): Max retries exceeded with url: /rktermin/extern/appointment_showForm.do?locationCode=ista&realmId=108&categoryId=1600 (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002B5914A42F0>, 'Connection to 154.236.92.107 timed out. (connect timeout=3)')))
+2025-06-13 18:59:54,946 - WARNING - Proxy başarısızlık kaydedildi: http://154.236.92.107:8080 (Hata: ProxyError, Sayı: 1/1)
+2025-06-13 18:59:54,957 - WARNING - BLACKLIST'E EKLENDİ: http://154.236.92.107:8080 (Sebep: iDATA-ProxyError-1x)
+2025-06-13 18:59:54,961 - WARNING - GLOBAL BLACKLIST: http://154.236.92.107:8080 (Sebep: iDATA-ProxyError-1x)
+2025-06-13 18:59:54,962 - WARNING - HTTP isteği başarısız: istanbul
+2025-06-13 18:59:55,270 - INFO - Browser proxy: http://123.128.12.93:9055
+2025-06-13 18:59:55,594 - INFO - iDATA sayfası yükleniyor: https://service2.diplo.de/rktermin/extern/appointment_showForm.do?locationCode=ista&realmId=108&categoryId=1600
+2025-06-13 18:59:57,172 - ERROR - Browser kontrolü hatası (istanbul): net::ERR_CONNECTION_RESET at https://service2.diplo.de/rktermin/extern/appointment_showForm.do?locationCode=ista&realmId=108&categoryId=1600
+2025-06-13 18:59:57,172 - INFO - 🎉 Almanya Vize randevu bulundu! (40.9s)
+2025-06-13 18:59:57,183 - INFO - Telegram config dosyası yüklendi: config/telegram_config.json
+2025-06-13 18:59:57,184 - INFO - Telegram Notifier başlatıldı - 3 kullanıcı
+2025-06-13 18:59:59,166 - INFO - Telegram mesajı gönderildi: 3/3 başarılı
+2025-06-13 18:59:59,166 - INFO - İtalya Vize kontrol ediliyor...
+2025-06-13 18:59:59,167 - INFO - VFS Global Ankara kontrol ediliyor...
+2025-06-13 18:59:59,184 - INFO - Proxy istatistikleri: Pool=120, Blacklist=25, Geçerli=95
+2025-06-13 19:00:00,403 - ERROR - SSL protokol hatası: HTTPSConnectionPool(host='visa.vfsglobal.com', port=443): Max retries exceeded with url: /appointment/api/calendar/availableDates?missionCode=ita&centerCode=ank&categoryCode=1&languageCode=tr (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+2025-06-13 19:00:00,403 - WARNING - Proxy başarısızlık kaydedildi: http://189.240.60.166:9090 (Hata: SSLError, Sayı: 1/1)
+2025-06-13 19:00:00,404 - WARNING - BLACKLIST: Proxy artık kullanılmayacak: http://189.240.60.166:9090 (Toplam 1 başarısızlık - SSLError)
+2025-06-13 19:00:00,404 - INFO - REMOVED: Proxy ana listeden çıkarıldı: http://189.240.60.166:9090
+2025-06-13 19:00:00,404 - WARNING - API isteği başarısız: ankara
+2025-06-13 19:00:00,672 - INFO - Browser proxy: http://171.237.92.21:1004
+2025-06-13 19:00:00,989 - INFO - VFS Global sayfası yükleniyor: https://visa.vfsglobal.com/tur/tr/ita/
+2025-06-13 19:00:09,113 - ERROR - Browser kontrolü hatası (ankara): net::ERR_TIMED_OUT at https://visa.vfsglobal.com/tur/tr/ita/
+2025-06-13 19:00:09,113 - INFO - VFS Global İstanbul kontrol ediliyor...
+2025-06-13 19:00:09,114 - INFO - Proxy istatistikleri: Pool=120, Blacklist=25, Geçerli=95
+2025-06-13 19:00:12,127 - ERROR - Proxy hatası: HTTPSConnectionPool(host='visa.vfsglobal.com', port=443): Max retries exceeded with url: /appointment/api/calendar/availableDates?missionCode=ita&centerCode=ist&categoryCode=1&languageCode=tr (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002B590CB47D0>, 'Connection to 115.72.9.57 timed out. (connect timeout=3)')))
+2025-06-13 19:00:12,128 - WARNING - Proxy başarısızlık kaydedildi: http://115.72.9.57:10005 (Hata: ProxyError, Sayı: 1/1)
+2025-06-13 19:00:12,128 - WARNING - BLACKLIST: Proxy artık kullanılmayacak: http://115.72.9.57:10005 (Toplam 1 başarısızlık - ProxyError)
+2025-06-13 19:00:12,128 - INFO - REMOVED: Proxy ana listeden çıkarıldı: http://115.72.9.57:10005
+2025-06-13 19:00:12,129 - WARNING - API isteği başarısız: istanbul
+2025-06-13 19:00:12,464 - INFO - Browser proxy: http://95.164.0.177:36352
+2025-06-13 19:00:12,776 - INFO - VFS Global sayfası yükleniyor: https://visa.vfsglobal.com/tur/tr/ita/
+2025-06-13 19:00:12,953 - INFO - Proxy istatistikleri: Pool=120, Blacklist=25, Geçerli=95
+2025-06-13 19:00:12,953 - INFO - Proxy test başlatıldı: 10 proxy test edilecek
+2025-06-13 19:00:20,882 - ERROR - Browser kontrolü hatası (istanbul): net::ERR_TIMED_OUT at https://visa.vfsglobal.com/tur/tr/ita/
+2025-06-13 19:00:20,883 - INFO - ❌ İtalya Vize randevu yok (21.7s)
+2025-06-13 19:00:20,883 - INFO - VFS Global kontrol ediliyor...
+2025-06-13 19:00:20,883 - INFO - Türkiye → İtalya Turizm Vizesi kontrol ediliyor...
+2025-06-13 19:00:21,522 - INFO - VFS Global ana sayfa yükleniyor: https://www.vfsglobal.com
+2025-06-13 19:00:38,652 - INFO - Proxy test tamamlandı: 1/10 çalışıyor
+2025-06-13 19:00:38,656 - INFO - Proxy cache güncellendi: 95 geçerli proxy
+2025-06-13 19:00:38,657 - INFO - 🔄 Background update: 1/95 proxy çalışıyor
+2025-06-13 19:01:06,625 - ERROR - Interactive browser kontrolü hatası: Timeout 45000ms exceeded.
+2025-06-13 19:01:06,626 - INFO - Türkiye → İspanya Turizm Vizesi kontrol ediliyor...
+2025-06-13 19:01:07,233 - INFO - VFS Global ana sayfa yükleniyor: https://www.vfsglobal.com
+2025-06-13 19:01:12,725 - INFO - Proxy istatistikleri: Pool=120, Blacklist=25, Geçerli=95
+2025-06-13 19:01:12,726 - INFO - Proxy test başlatıldı: 10 proxy test edilecek
+2025-06-13 19:01:15,262 - INFO - Sayfa analizi: {'title': 'Welcome to VFS Global | For Individuals | Home', 'button_count': 3, 'link_count': 64, 'form_count': 0, 'interactive_count': 5}
+2025-06-13 19:01:15,262 - INFO - Bulunan butonlar: ['Menu', '‹', '›']
+2025-06-13 19:01:15,263 - INFO - Bulunan linkler: ['For Governments', 'About', 'About VFS Global', 'Executive Board', 'Solutions', 'Milestones', 'Solutions', 'Footprint', 'Insights', 'Media']
+2025-06-13 19:01:15,279 - INFO - Start/Action buton bulundu: A (visa application) - get personalised assistance and comfort while
+    
+2025-06-13 19:01:15,362 - INFO - Start butonuna başarıyla tıklandı
+2025-06-13 19:01:21,003 - INFO - Sayfa yönlendirildi: https://www.vfsglobal.com/en/individuals/index.html
+2025-06-13 19:01:21,004 - INFO - Ülke seçiliyor: Turkey
+2025-06-13 19:01:21,061 - INFO - Ülke JavaScript ile başarıyla seçildi: Turkey
+2025-06-13 19:01:24,096 - INFO - Hedef ülke seçildi: Spain
+2025-06-13 19:01:26,070 - INFO - Vize tipi seçiliyor: Tourism
+2025-06-13 19:01:26,265 - INFO - Input field ile vize tipi girildi: input[type="text"]
+2025-06-13 19:01:35,192 - INFO - Proxy test tamamlandı: 3/10 çalışıyor
+2025-06-13 19:01:35,193 - INFO - Proxy cache güncellendi: 95 geçerli proxy
+2025-06-13 19:01:35,193 - INFO - 🔄 Background update: 3/95 proxy çalışıyor
+2025-06-13 19:01:38,742 - INFO - Form submit edildi
+2025-06-13 19:01:46,461 - INFO - Final yönlendirilen URL: https://www.vfsglobal.com/en/individuals/services-premium-lounge.html
+2025-06-13 19:01:46,461 - WARNING - Beklenmeyen URL yönlendirmesi: https://www.vfsglobal.com/en/individuals/services-premium-lounge.html
+2025-06-13 19:01:46,534 - INFO - Türkiye → Hollanda Turizm Vizesi kontrol ediliyor...
+2025-06-13 19:01:47,149 - INFO - VFS Global ana sayfa yükleniyor: https://www.vfsglobal.com
+2025-06-13 19:02:12,208 - INFO - Proxy istatistikleri: Pool=120, Blacklist=25, Geçerli=95
+2025-06-13 19:02:12,208 - INFO - Proxy test başlatıldı: 10 proxy test edilecek
+2025-06-13 19:02:30,618 - INFO - Proxy test tamamlandı: 2/10 çalışıyor
+2025-06-13 19:02:30,619 - INFO - Proxy cache güncellendi: 95 geçerli proxy
+2025-06-13 19:02:30,619 - INFO - 🔄 Background update: 2/95 proxy çalışıyor
+2025-06-13 19:02:32,235 - ERROR - Interactive browser kontrolü hatası: Timeout 45000ms exceeded.
+2025-06-13 19:02:32,235 - INFO - ❌ VFS Global randevu yok (131.4s)
+2025-06-13 19:02:32,235 - INFO - İspanya BLS kontrol ediliyor...
+2025-06-13 19:02:32,235 - INFO - BLS İspanya Vize Merkezi Ankara kontrol ediliyor...
+2025-06-13 19:02:39,192 - INFO - HTTP ile randevu bulundu: ankara
+2025-06-13 19:02:39,193 - INFO - BLS İspanya Vize Merkezi İstanbul kontrol ediliyor...
+2025-06-13 19:02:46,203 - INFO - HTTP ile randevu bulundu: istanbul
+2025-06-13 19:02:46,204 - INFO - 🎉 İspanya BLS randevu bulundu! (14.0s)
+2025-06-13 19:02:48,713 - INFO - Telegram mesajı gönderildi: 3/3 başarılı
+2025-06-13 19:02:48,714 - INFO - Kanada Vize kontrol ediliyor...
+2025-06-13 19:02:48,714 - INFO - Kanada Ankara Konsolosluğu kontrol ediliyor...
+2025-06-13 19:02:52,457 - ERROR - Proxy timeout hatası (3s): HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=3)
+2025-06-13 19:02:52,457 - WARNING - HTTP isteği başarısız: ankara
+2025-06-13 19:02:53,071 - INFO - Canada.ca sayfası yükleniyor: https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-0005-application-temporary-resident-visa.html
+2025-06-13 19:03:00,778 - ERROR - Sayfa yüklenemedi (ankara): 404
+2025-06-13 19:03:00,853 - INFO - Kanada İstanbul Konsolosluğu kontrol ediliyor...
+2025-06-13 19:03:07,678 - INFO - HTTP ile randevu sistemi bulundu: istanbul
+2025-06-13 19:03:07,679 - INFO - IRCC Randevu Sistemi kontrol ediliyor...
